@@ -43,6 +43,7 @@ I = 0.2 \left( \frac{0.8}{250} + \frac{0.8}{500} + \frac{0.8}{1000} \right) = 1.
 - [Sushant Gudmewar](https://github.com/sushantgudmewar)
 - Pavani Tirunagiri  
 - [Raghavpravin K S](https://github.com/RaghavpravinKS)
+  
 *(Course Project under Prof. Sandip Lashkare - EE658: Memory Device Technologies and Applications, IIT Gandhinagar)*
 
 ## 📚 References
