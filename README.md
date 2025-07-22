@@ -35,8 +35,8 @@ I = 0.2 \left( \frac{0.8}{250} + \frac{0.8}{500} + \frac{0.8}{1000} \right) = 1.
 
 ## 🔧 Tools Used
 
-- **Cadence Virtuoso ** for schematic and transient simulations
-- Verilog-A  for custom memory modeling
+- **Cadence Virtuoso** for schematic and transient simulations
+- **Verilog-A**  for custom memory device modeling
 
 ## 👨‍🔬 Contributors
 
